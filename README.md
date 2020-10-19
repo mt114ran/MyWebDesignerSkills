@@ -1,2 +1,1 @@
-# MyWebDesignerSkills
-わたしのWebデザイナーとしてのスキルをシングルページで紹介しています。
+
